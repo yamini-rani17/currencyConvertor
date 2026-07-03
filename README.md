@@ -7,8 +7,7 @@ It allows users to convert currencies in real-time with a clean and user-friendl
 
 ## 🌐 Live Demo
 
-👉 https://your-app.vercel.app  
-<!-- Deploy hone ke baad yaha apna Vercel link paste kar dena -->
+👉 https://currency-convertor-i7oofeuth-yamini-rani17s-projects.vercel.app/
 
 ---
 
